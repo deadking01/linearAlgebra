@@ -11,4 +11,6 @@
 * [第四章 线性方程组的解集](di-si-zhang-xian-xing-fang-cheng-zu-de-jie-ji.md)
   * [方程个数有真假](di-si-zhang-xian-xing-fang-cheng-zu-de-jie-ji/fang-cheng-ge-shu-you-zhen-jia.md)
   * [矩阵的秩](di-si-zhang-xian-xing-fang-cheng-zu-de-jie-ji/ju-zhen-de-zhi.md)
+* 第五章 线性映射
+  * [数列的通项公式](shu-lie-de-tong-xiang-gong-shi.md)
 
