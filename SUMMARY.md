@@ -13,4 +13,5 @@
   * [矩阵的秩](di-si-zhang-xian-xing-fang-cheng-zu-de-jie-ji/ju-zhen-de-zhi.md)
 * 第五章 线性映射
   * [数列的通项公式](shu-lie-de-tong-xiang-gong-shi.md)
+  * [插值公式](cha-zhi-gong-shi.md)
 
