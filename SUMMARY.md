@@ -24,6 +24,6 @@
   * [最小二乘法](zui-xiao-er-cheng-fa.md)
   * [几何内积的代数推广](ji-he-nei-ji-de-dai-shu-tui-guang.md)
   * [正交化方法](zheng-jiao-hua-fang-fa.md)
-* 第九章 二次型
+* [第九章 二次型](di-jiu-zhang-er-ci-xing.md)
 * [第十章 矩阵相似](di-shi-zhang-ju-zhen-xiang-si.md)
 

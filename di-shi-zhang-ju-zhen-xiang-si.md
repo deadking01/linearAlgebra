@@ -1,2 +1,4 @@
-![](https://www.zhihu.com/equation?tex=P%5E%7B-1%7DAP%3DB)
+![](https://www.zhihu.com/equation?tex=P^{-1}AP%3DB)
+
+对角矩阵：
 
