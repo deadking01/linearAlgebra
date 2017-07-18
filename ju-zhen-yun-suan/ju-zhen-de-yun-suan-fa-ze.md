@@ -24,3 +24,7 @@ A+B=\(aij+bij\)mxn
 
 ![](/assets/Screenshot from 2017-07-18 10-55-10.png)
 
+![](/assets/Screenshot from 2017-07-18 10-58-46.png)
+
+
+
