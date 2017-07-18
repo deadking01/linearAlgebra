@@ -8,3 +8,5 @@ A+B=\(aij+bij\)mxn
 
 矩阵的数乘：
 
+![](/assets/import.png)
+
