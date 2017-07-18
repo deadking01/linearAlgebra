@@ -8,4 +8,7 @@
   * [n数组空间](chapter1/nshu-zu-kong-jian.md)
 * [第三章 行列式](di-san-zhang-xing-lie-shi.md)
   * [行列式判定线性无关](di-san-zhang-xing-lie-shi/xing-lie-shi-pan-ding-xian-xing-wu-guan.md)
+* [第四章 线性方程组的解集](di-si-zhang-xian-xing-fang-cheng-zu-de-jie-ji.md)
+  * [方程个数有真假](di-si-zhang-xian-xing-fang-cheng-zu-de-jie-ji/fang-cheng-ge-shu-you-zhen-jia.md)
+  * [矩阵的秩](di-si-zhang-xian-xing-fang-cheng-zu-de-jie-ji/ju-zhen-de-zhi.md)
 
