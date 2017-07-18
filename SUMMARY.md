@@ -19,4 +19,6 @@
   * [矩阵的运算法则](ju-zhen-yun-suan/ju-zhen-de-yun-suan-fa-ze.md)
   * [初等方阵](ju-zhen-yun-suan/chu-deng-fang-zhen.md)
   * [逆矩阵](ju-zhen-yun-suan/ni-ju-zhen.md)
+* 第八章 内积
+  * [最小二乘法](zui-xiao-er-cheng-fa.md)
 
