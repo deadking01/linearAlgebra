@@ -20,3 +20,7 @@ A+B=\(aij+bij\)mxn
 
 ![](/assets/Screenshot from 2017-07-18 10-46-52.png)
 
+![](/assets/Screenshot from 2017-07-18 10-48-24.png)
+
+![](/assets/Screenshot from 2017-07-18 10-55-10.png)
+
