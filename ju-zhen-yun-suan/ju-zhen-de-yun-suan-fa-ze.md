@@ -12,5 +12,5 @@ A+B=\(aij+bij\)mxn
 
 矩阵的乘法：
 
-
+![](/assets/Screenshot from 2017-07-18 10-11-33.png)
 
