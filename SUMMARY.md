@@ -26,4 +26,5 @@
   * [正交化方法](zheng-jiao-hua-fang-fa.md)
 * [第九章 二次型](di-jiu-zhang-er-ci-xing.md)
 * [第十章 矩阵相似](di-shi-zhang-ju-zhen-xiang-si.md)
+* [叉乘](cha-cheng.md)
 
