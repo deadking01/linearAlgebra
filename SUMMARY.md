@@ -17,4 +17,6 @@
   * [线性变换的矩阵](xian-xing-bian-huan-de-ju-zhen.md)
 * [第六章 矩阵运算](ju-zhen-yun-suan.md)
   * [矩阵的运算法则](ju-zhen-yun-suan/ju-zhen-de-yun-suan-fa-ze.md)
+  * [初等方阵](ju-zhen-yun-suan/chu-deng-fang-zhen.md)
+  * [逆矩阵](ju-zhen-yun-suan/ni-ju-zhen.md)
 
