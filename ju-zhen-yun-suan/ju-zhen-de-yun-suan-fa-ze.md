@@ -14,5 +14,9 @@ A+B=\(aij+bij\)mxn
 
 ![](/assets/Screenshot from 2017-07-18 10-11-33.png)
 
-![](/assets/Screenshot from 2017-07-18 10-17-56.png)
+![](/assets/Screenshot from 2017-07-18 10-17-56.png)![](/assets/Screenshot from 2017-07-18 10-21-49.png)
+
+运算律：
+
+![](/assets/Screenshot from 2017-07-18 10-46-52.png)
 
