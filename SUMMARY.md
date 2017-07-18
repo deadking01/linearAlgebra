@@ -14,4 +14,7 @@
 * 第五章 线性映射
   * [数列的通项公式](shu-lie-de-tong-xiang-gong-shi.md)
   * [插值公式](cha-zhi-gong-shi.md)
+  * [线性变换的矩阵](xian-xing-bian-huan-de-ju-zhen.md)
+* [第六章 矩阵运算](ju-zhen-yun-suan.md)
+  * [矩阵的运算法则](ju-zhen-yun-suan/ju-zhen-de-yun-suan-fa-ze.md)
 
