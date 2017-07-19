@@ -21,6 +21,7 @@
   * [逆矩阵](ju-zhen-yun-suan/ni-ju-zhen.md)
   * [对称矩阵](ju-zhen-yun-suan/dui-cheng-ju-zhen.md)
 * [第八章 内积](di-ba-zhang-nei-ji.md)
+  * [向量的长度](xiang-liang-de-chang-du.md)
   * [最小二乘法](zui-xiao-er-cheng-fa.md)
   * [几何内积的代数推广](ji-he-nei-ji-de-dai-shu-tui-guang.md)
   * [正交化方法](zheng-jiao-hua-fang-fa.md)
