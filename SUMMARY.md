@@ -28,5 +28,6 @@
   * [方阵的特征值和特征向量](fang-zhen-de-te-zheng-zhi-he-te-zheng-xiang-liang.md)
   * [二次型和标准型](er-ci-xing-he-biao-zhun-xing.md)
   * [叉乘](cha-cheng.md)
-* 第十章 线性空间与线性变换
+* [第十章 线性空间与线性变换](di-shi-zhang-xian-xing-kong-jian-yu-xian-xing-bian-huan.md)
+  * [定义与性质](di-shi-zhang-xian-xing-kong-jian-yu-xian-xing-bian-huan/ding-yi-yu-xing-zhi.md)
 
