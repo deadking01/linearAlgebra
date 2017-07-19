@@ -26,6 +26,7 @@
   * [正交化方法](zheng-jiao-hua-fang-fa.md)
 * [第九章 相似矩阵和二次型](di-jiu-zhang-er-ci-xing.md)
   * [方阵的特征值和特征向量](fang-zhen-de-te-zheng-zhi-he-te-zheng-xiang-liang.md)
+  * [二次型和标准型](er-ci-xing-he-biao-zhun-xing.md)
   * [矩阵相合对角化](di-jiu-zhang-er-ci-xing/ju-zhen-xiang-he-dui-jiao-hua.md)
   * [叉乘](cha-cheng.md)
 
