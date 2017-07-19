@@ -31,4 +31,5 @@
 * [第十章 线性空间与线性变换](di-shi-zhang-xian-xing-kong-jian-yu-xian-xing-bian-huan.md)
   * [定义与性质](di-shi-zhang-xian-xing-kong-jian-yu-xian-xing-bian-huan/ding-yi-yu-xing-zhi.md)
   * [维数 基 坐标](di-shi-zhang-xian-xing-kong-jian-yu-xian-xing-bian-huan/wei-shu-ji-zuo-biao.md)
+  * [基变换与坐标变换](di-shi-zhang-xian-xing-kong-jian-yu-xian-xing-bian-huan/ji-bian-huan-yu-zuo-biao-bian-huan.md)
 
