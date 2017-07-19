@@ -5,11 +5,7 @@
 
 ![](/assets/Screenshot from 2017-07-19 11-43-31.png)
 
-
-
 ![](/assets/Screenshot from 2017-07-19 11-48-12.png)
 
-
-
-
+![](/assets/Screenshot from 2017-07-19 11-50-25.png)
 
